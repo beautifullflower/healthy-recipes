@@ -15,4 +15,4 @@ User-agent: aolbuild
 Allow: /
 User-agent: teoma
 
-Sitemap: https://beautifullflower.github.io/healthy-recipes/sitemapx.xml
+Sitemap: https://picflower.recipefood.net/healthy-recipes/sitemapx.xml
